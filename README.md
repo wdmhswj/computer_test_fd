@@ -2,7 +2,7 @@
 `复旦机试复习`
 ## 常见算法
 ### 排序
-![alt text](imgs\image1.png)
+![alt text](imgs/image1.png)
 #### 快排
 ```cpp
 #include <iostream>
